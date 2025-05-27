@@ -45,7 +45,7 @@ Identificação e correção de inconsistências ou erros nos dados.
 
 Transformação de dados para formatos adequados à análise.
 
-##### Análise Exploratória de Dados (EDA): 
+#### Análise Exploratória de Dados (EDA): 
 
 Criação de estatísticas descritivas para entender a distribuição e as características dos dados.
 
