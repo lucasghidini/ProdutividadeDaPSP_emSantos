@@ -4,12 +4,12 @@ Este repositório contém uma análise exploratória da produtividade da Políci
 
 ---
 
-# Motivação
+#### Motivação
 A segurança pública é um tema de extrema importância para a sociedade. A análise de dados de produtividade policial pode revelar informações valiosas sobre a efetividade das ações, a distribuição de recursos e as áreas que demandam maior atenção. Este projeto visa aplicar técnicas de análise de dados para gerar um entendimento mais aprofundado sobre a atuação da PMESP em Santos.
 
 ---
 
-# Dados
+#### Dados
 Os dados utilizados neste projeto são referentes à produtividade da Polícia de São Paulo e foram obtidos através do seguinte link:
 [Produtividade da Políca do Estado de SP](https://basedosdados.org/dataset/dbd717cb-7da8-4efd-9162-951a71694541?table=a2e9f998-e2c2-49b7-858a-ae1daef46dc0)
 
@@ -17,7 +17,7 @@ Tipicamente, tais conjuntos de dados incluem informações sobre registros de oc
 
 ---
 
-# Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas Python:
 
@@ -31,13 +31,13 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas 
 
 ---
 
-# Metodologia
+### Metodologia
 
 O processo de análise seguiu as seguintes etapas principais:
 
 Coleta e Carregamento de Dados: Importação do(s) conjunto(s) de dados para o ambiente de análise.
 
-Limpeza e Pré-processamento de Dados:
+#### Limpeza e Pré-processamento de Dados:
 
 Tratamento de valores ausentes.
 
@@ -45,8 +45,7 @@ Identificação e correção de inconsistências ou erros nos dados.
 
 Transformação de dados para formatos adequados à análise.
 
-Análise Exploratória de Dados (EDA):
-
+##### Análise Exploratória de Dados (EDA): 
 
 Criação de estatísticas descritivas para entender a distribuição e as características dos dados.
 
