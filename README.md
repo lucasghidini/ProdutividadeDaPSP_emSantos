@@ -36,12 +36,23 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas 
 O processo de análise seguiu as seguintes etapas principais:
 
 Coleta e Carregamento de Dados: Importação do(s) conjunto(s) de dados para o ambiente de análise.
+
 Limpeza e Pré-processamento de Dados:
+
 Tratamento de valores ausentes.
+
 Identificação e correção de inconsistências ou erros nos dados.
+
 Transformação de dados para formatos adequados à análise.
+
 Análise Exploratória de Dados (EDA):
+
+
 Criação de estatísticas descritivas para entender a distribuição e as características dos dados.
-Geração de visualizações (gráficos de linha, barras, dispersão, etc.) para identificar padrões, tendências e anomalias na produtividade policial ao longo do tempo, por tipo de ocorrência ou por região.
+
+Geração de visualizações (gráficos de linha, barras, dispersão, etc.) para identificar padrões, tendências e anomalias na produtividade 
+policial ao longo do tempo.
+
 Identificação de correlações e relações entre diferentes variáveis.
+
 Extração de Insights: Com base nas análises e visualizações, foram gerados insights sobre a produtividade da PMESP em Santos.
